@@ -6,44 +6,19 @@
   - [Table of Contents](#table-of-contents)
   - [About ](#about-)
   - [Getting Started ](#getting-started-)
-    - [Prerequisites](#prerequisites)
-    - [Installing](#installing)
-  - [Usage ](#usage-)
 
 ## About <a name = "about"></a>
-
-Write about 1-2 paragraphs describing the purpose of your project.
+- Student Name: Le Phuoc Gia Thinh - SE16184
+- This repository contains the exercises for the course DBM301 - FPT University.
+- The solutions are written in Python and the exercises are written in Jupyter Notebook.
+- Code snippets are referenced from kaggle notebooks for Hotel Booking Demand dataset.
 
 ## Getting Started <a name = "getting_started"></a>
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
-
-### Prerequisites
-
-What things you need to install the software and how to install them.
-
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running.
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo.
-
-## Usage <a name = "usage"></a>
-
-Add notes about how to use the system.
+- Open the file excercise-01/hotel_booking.ipynb in Jupyter Notebook to view results of the exercises 1.
+- If you want to run the notebook, you need to install the dependencies first:
+  ```python
+  cd excercise-01
+  python -m venv venv
+  source venv/bin/activate
+  pip install -r requirements.txt
+  ```
