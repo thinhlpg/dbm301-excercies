@@ -7,6 +7,5 @@ missingno
 plotly
 folium
 sklearn
-xgboost 
-eli5 
+xgboost
 nbformat
