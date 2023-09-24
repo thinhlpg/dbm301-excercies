@@ -4,3 +4,9 @@ matplotlib
 seaborn
 scikit-learn
 missingno
+plotly
+folium
+sklearn
+xgboost 
+eli5 
+nbformat
