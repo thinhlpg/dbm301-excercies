@@ -25,5 +25,7 @@
   ```
 ### Assigement 01
 - Open the excercise-01/hotel_booking.ipynb in Jupyter Notebook to view results of the assigement 1.
+- [View on Github](https://github.com/thinhlpg/dbm301-excercies/blob/main/excercise-01/hotel_booking.ipynb)
 ### Assigement 02
 - Open the excercise-02/notebook.ipynb in Jupyter Notebook to view results of the assigement 2.
+- [View on Github](https://github.com/thinhlpg/dbm301-excercies/blob/main/excercise-02/notebook.ipynb)
