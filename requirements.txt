@@ -10,3 +10,5 @@ sklearn
 xgboost
 nbformat
 mlxtend
+ydata-profiling
+torch==2.1.0
