@@ -29,3 +29,4 @@
 ### Assigement 02
 - Open the excercise-02/notebook.ipynb in Jupyter Notebook to view results of the assigement 2.
 - [View on Github](https://github.com/thinhlpg/dbm301-excercies/blob/main/excercise-02/notebook.ipynb)
+- ### Assigement 03
