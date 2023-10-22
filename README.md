@@ -8,6 +8,7 @@
   - [Getting Started ](#getting-started-)
     - [Assigement 01](#assigement-01)
     - [Assigement 02](#assigement-02)
+    - [Assigement 03](#assigement-03)
 
 ## About <a name = "about"></a>
 - Student Name: Le Phuoc Gia Thinh - SE16184
@@ -25,8 +26,13 @@
   ```
 ### Assigement 01
 - Open the excercise-01/hotel_booking.ipynb in Jupyter Notebook to view results of the assigement 1.
+- Put the dataset in the excercise-01/data/raw folder and install requirements to reproduce the results.
 - [View on Github](https://github.com/thinhlpg/dbm301-excercies/blob/main/excercise-01/hotel_booking.ipynb)
 ### Assigement 02
 - Open the excercise-02/notebook.ipynb in Jupyter Notebook to view results of the assigement 2.
+- Put the dataset in the excercise-02/data folder and install requirements to reproduce the results.
 - [View on Github](https://github.com/thinhlpg/dbm301-excercies/blob/main/excercise-02/notebook.ipynb)
-- ### Assigement 03
+### Assigement 03
+- Open the excercise-03/notebook.ipynb in Jupyter Notebook to view results of the assigement 3.
+- Put the dataset in the excercise-03/data folder and install requirements to reproduce the results.
+- [View on Github](https://github.com/thinhlpg/dbm301-excercies/blob/main/excercise-03/notebook.ipynb)
