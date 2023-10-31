@@ -19,6 +19,7 @@
 
 ## Getting Started <a name = "getting_started"></a>
 - The notebooks do not work on Google Colab, please run on local machine. You will need to install Jupyter Notebook or Jupyter Lab or VSCode to run the notebooks.
+- OS: Ubuntu 22.04 (WSL2). The notebooks might not work on Windows or MacOS.
 - Python version: 3.10
 - Install the dependencies:
   ```python
@@ -41,4 +42,4 @@
 ### Excercise 04
 - Open the excercise-04/Public_Relations_Department.ipynb in Jupyter Notebook to view results of the Excercise 4.
 - Put the dataset in the excercise-04/data folder and install requirements to reproduce the results.
-- [View on Github](https://github.com/thinhlpg/dbm301-excercies/blob/main/excercise-03/Public_Relations_Department.ipynb)
+- [View on Github](https://github.com/thinhlpg/dbm301-excercies/blob/main/excercise-04/Public_Relations_Department.ipynb)
